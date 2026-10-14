@@ -59,12 +59,12 @@ customer_rating_1_5 = st.selectbox("customer_rating_1_5", [1, 2, 3, 4, 5])
 
 product_type = st.selectbox(
     "product_type", 
-    options=["Dairy", "Bakery", "Beverage", "Snacks", "Produce"]
+    options=["Dairy", "Ready-to-Eat", "Snacks", "Canned Food", "Frozen Food", "Juice"]
 )
 
 packaging_type = st.selectbox(
     "packaging_type", 
-    options=["Cardboard Box", "Plastic Film", "Glass Bottle", "Pouch"]
+    options=["Metal", "Plastic", "Paper", "Tetra Pack","Vacuum"]
 )
 
 # --- Prediction Button ---
