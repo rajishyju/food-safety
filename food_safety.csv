@@ -1,0 +1,501 @@
+product_type,packaging_type,shelf_life_days,storage_temperature_C,humidity_level_percent,moisture_content,preservative_level,pH_level,inspection_score_0_100,customer_rating_1_5,product_approval
+Frozen Food,Paper,345,3.8,44.6,30.1,2.76,6.16,83,4,Approved
+Canned Food,Vacuum Pack,264,1.2,50.5,19.3,1.99,6.48,83,5,Approved
+Snacks,Metal,125,0.7,40.9,30,5.48,6.51,95,3,Approved
+Dairy,Plastic,189,0.9,63.3,19.5,4.76,5.21,97,5,Approved
+Snacks,Paper,44,0.5,67.4,7.3,4.03,5.15,97,5,Approved
+Ready-to-Eat,Tetra Pack,151,8.2,39.3,5.4,0.75,5.26,100,3,Approved
+Ready-to-Eat,Plastic,252,4.7,57.9,29.4,2.9,5.71,89,4,Approved
+Bakery,Plastic,294,5.1,42.9,11.8,5.83,4.28,94,5,Approved
+Dairy,Metal,159,8.1,60.2,14.9,3.74,6.21,94,5,Approved
+Juice,Plastic,124,3.5,44.3,11.9,0.55,7.17,91,5,Approved
+Canned Food,Metal,248,8.8,69.5,21.6,1.45,6.67,77,3,Approved
+Dairy,Metal,315,0.6,61.9,26.8,3.71,6.12,78,4,Approved
+Juice,Metal,181,8.1,55,25.5,4.03,5.28,97,4,Approved
+Canned Food,Metal,361,3.1,66.6,32.3,4.14,5.05,84,5,Approved
+Bakery,Vacuum Pack,208,9.9,42.1,6.2,5.64,5.67,92,3,Approved
+Frozen Food,Tetra Pack,137,5.3,37.9,9.4,4.9,5.05,88,5,Approved
+Frozen Food,Glass,86,5.4,61.8,18.5,1.42,5.2,89,4,Approved
+Canned Food,Metal,188,8.9,53.8,26.9,1.95,6.38,83,3,Approved
+Ready-to-Eat,Paper,301,7.8,52,7.8,4.78,4.45,84,5,Approved
+Canned Food,Paper,279,5.3,47.5,18.3,5.8,7.18,75,5,Approved
+Canned Food,Vacuum Pack,9,9,55.7,31.8,5.37,4.47,100,4,Approved
+Canned Food,Glass,192,9.8,53.4,13.3,2.14,7.04,75,5,Approved
+Bakery,Metal,224,5.2,35.3,8.4,1.37,6.96,94,4,Approved
+Ready-to-Eat,Vacuum Pack,356,6.4,47.6,19.1,5.69,6.68,86,3,Approved
+Bakery,Vacuum Pack,54,8.9,50.5,21.9,5.02,6.38,97,5,Approved
+Snacks,Plastic,299,5.6,56.8,31.6,3,6.29,97,4,Approved
+Ready-to-Eat,Tetra Pack,322,8.9,64.8,23.5,5.74,5.85,82,4,Approved
+Dairy,Plastic,62,3,58.6,24.4,2.49,5.4,91,4,Approved
+Dairy,Tetra Pack,228,6,66.5,24.9,2.48,6.83,98,5,Approved
+Juice,Vacuum Pack,227,6.5,43.7,30.8,4.17,6.12,87,5,Approved
+Juice,Tetra Pack,340,2.3,41.5,5.4,3.89,6.67,94,4,Approved
+Bakery,Vacuum Pack,144,7.2,41,6.6,3.26,5.99,77,5,Approved
+Dairy,Vacuum Pack,13,5.8,43.2,13.1,2.49,6.94,99,3,Approved
+Canned Food,Tetra Pack,21,1.2,68.6,9.3,0.65,6.73,86,3,Approved
+Snacks,Glass,216,9.9,42.6,26.8,1.71,6.18,95,5,Approved
+Dairy,Paper,364,6.5,69.4,5.3,0.54,6.31,99,5,Approved
+Snacks,Paper,29,8.9,62.2,19.1,4.29,5.65,83,5,Approved
+Frozen Food,Tetra Pack,21,5.3,62.9,23.2,5.62,4.62,89,4,Approved
+Bakery,Metal,347,5.7,63.8,30.7,0.76,5.24,92,3,Approved
+Ready-to-Eat,Tetra Pack,106,6.6,49.7,8.8,1.32,4.77,98,4,Approved
+Frozen Food,Vacuum Pack,336,7.4,40.2,30.8,2.26,6.39,94,5,Approved
+Canned Food,Plastic,125,7.1,41.9,32.1,0.65,6.9,76,5,Approved
+Ready-to-Eat,Metal,113,1.3,55.1,17.9,4.08,5.97,85,4,Approved
+Snacks,Plastic,301,3.7,37.4,8.4,4.12,6.65,94,5,Approved
+Canned Food,Plastic,238,4.3,65.8,6,1.89,5.46,96,3,Approved
+Snacks,Glass,334,2,45.9,10.5,1.1,4.65,79,4,Approved
+Snacks,Metal,234,2.3,46.7,15.6,0.93,4.93,89,5,Approved
+Snacks,Vacuum Pack,132,1.8,36.1,6.9,4.53,5.61,76,5,Approved
+Bakery,Paper,225,1.3,36.8,19.4,4.58,5.02,96,5,Approved
+Ready-to-Eat,Glass,246,3.4,68.1,14.2,1.51,4.8,88,4,Approved
+Bakery,Vacuum Pack,224,6.5,54.5,25.8,3.49,5.61,91,5,Approved
+Dairy,Glass,115,8,65.8,21.3,1.71,6.53,76,4,Approved
+Dairy,Vacuum Pack,276,8,38,34.8,4.07,7.08,82,5,Approved
+Ready-to-Eat,Plastic,231,2,48.5,26.1,5.19,6.83,88,5,Approved
+Frozen Food,Tetra Pack,36,5.8,44.7,8.5,4.72,4.84,94,3,Approved
+Ready-to-Eat,Plastic,320,8,53.6,27.4,1.94,5.14,86,3,Approved
+Canned Food,Paper,176,9.2,57.3,22.3,3.88,6.87,94,5,Approved
+Snacks,Vacuum Pack,302,8.4,58.8,24.2,2.09,5.5,79,4,Approved
+Canned Food,Plastic,208,3.5,66.4,26.1,0.74,4.48,100,5,Approved
+Juice,Vacuum Pack,223,4.8,63.1,19.8,5.89,5.11,86,3,Approved
+Frozen Food,Glass,316,0.1,65.8,21.9,0.83,6.58,91,4,Approved
+Canned Food,Vacuum Pack,84,1.1,48.1,16.2,0.94,5.72,75,3,Approved
+Frozen Food,Plastic,21,2.8,64.6,12.4,5.83,5.31,91,4,Approved
+Dairy,Plastic,305,5.3,38.6,33.4,1.16,6.68,98,4,Approved
+Dairy,Paper,215,7.6,43.7,7.5,5.5,7.1,95,4,Approved
+Dairy,Metal,163,7.8,44.2,7.4,3.69,5.64,91,4,Approved
+Ready-to-Eat,Glass,225,9,37.8,10.5,1.63,6.99,84,3,Approved
+Bakery,Glass,126,3,54.1,16.3,4.78,6.92,85,3,Approved
+Snacks,Vacuum Pack,282,6.9,69.8,23,4.15,7.17,81,4,Approved
+Juice,Glass,79,3.1,54.7,29.6,3.54,7.05,94,4,Approved
+Dairy,Tetra Pack,187,3.6,38.3,31,3.5,6.77,77,5,Approved
+Dairy,Vacuum Pack,102,7.6,53.6,34.6,2.43,4.63,86,3,Approved
+Bakery,Plastic,217,3.8,53.1,16.1,3.97,6.75,84,4,Approved
+Canned Food,Vacuum Pack,143,4,44.6,8,2.71,4.3,98,5,Approved
+Juice,Paper,105,0.1,54.4,20.6,4.74,4.32,87,3,Approved
+Ready-to-Eat,Metal,297,5.5,61.1,5.7,5.28,4.54,85,5,Approved
+Canned Food,Paper,179,3.1,56.8,25.9,4.75,4.54,95,3,Approved
+Frozen Food,Vacuum Pack,288,5.6,52.7,9.7,3.89,6.64,79,3,Approved
+Canned Food,Vacuum Pack,358,5.1,68.4,8,3.69,5.23,82,5,Approved
+Canned Food,Vacuum Pack,116,6,67.3,29.4,3.56,5.06,94,5,Approved
+Juice,Paper,28,3.7,41.6,29.2,3.82,6.61,94,4,Approved
+Snacks,Paper,172,2,51.5,15.9,1.8,5.9,91,5,Approved
+Juice,Vacuum Pack,240,3.6,50.1,34.6,1.95,6.93,86,5,Approved
+Juice,Plastic,71,0.6,53.3,23,3.91,5.04,91,5,Approved
+Ready-to-Eat,Plastic,44,9.9,61.6,34.7,3.84,6.87,84,5,Approved
+Bakery,Plastic,353,4.2,58.9,23.2,5.07,6.16,78,4,Approved
+Ready-to-Eat,Plastic,161,6,68.2,23.5,2.13,6.35,81,4,Approved
+Frozen Food,Paper,51,9.1,56.1,6.4,1.67,5.27,93,4,Approved
+Ready-to-Eat,Paper,111,6.8,37.9,5.9,1.42,4.47,92,5,Approved
+Snacks,Vacuum Pack,281,4.2,69,18.7,5.67,6.18,87,3,Approved
+Juice,Metal,152,1.9,45.8,14.7,4.85,4.33,88,5,Approved
+Frozen Food,Metal,277,6.1,38,8.9,2.09,4.42,81,5,Approved
+Bakery,Plastic,241,6.8,53.5,15.2,5.37,4.26,88,4,Approved
+Bakery,Glass,197,0.5,67.5,5.8,4.22,4.77,94,5,Approved
+Bakery,Paper,27,4.6,45.2,15.9,3.51,5.4,83,3,Approved
+Juice,Paper,156,1.9,57.3,5.7,2.85,5.24,98,4,Approved
+Snacks,Vacuum Pack,38,8.5,51.1,17.4,1.55,6.97,95,5,Approved
+Ready-to-Eat,Tetra Pack,292,0.5,49.1,30.1,4.11,4.96,78,5,Approved
+Snacks,Paper,82,6.4,56.2,23.9,4.72,6.39,98,5,Approved
+Ready-to-Eat,Plastic,196,8.6,39,14.2,5.83,5.91,75,3,Approved
+Frozen Food,Metal,103,5.4,66.1,7.4,2.41,4.25,91,4,Approved
+Frozen Food,Glass,243,3.3,41,28.8,1.99,6.83,75,3,Approved
+Canned Food,Tetra Pack,231,3.3,55.4,34.1,4.17,6.53,96,4,Approved
+Frozen Food,Vacuum Pack,352,2.5,45.4,13.7,5.21,4.28,75,4,Approved
+Snacks,Paper,100,7,66.5,32.6,0.63,4.26,89,3,Approved
+Bakery,Glass,156,7,64.9,34.2,2.2,7.16,89,5,Approved
+Dairy,Tetra Pack,194,2.2,47,8.3,3.37,5.25,87,3,Approved
+Frozen Food,Vacuum Pack,295,6.6,62.7,27.8,1.53,5.42,79,3,Approved
+Bakery,Glass,86,5,66.7,23.8,4.89,4.22,79,3,Approved
+Frozen Food,Vacuum Pack,334,3.1,45.4,6,1.94,5.93,98,4,Approved
+Frozen Food,Vacuum Pack,177,3.7,58,33,4.07,5.24,99,4,Approved
+Canned Food,Vacuum Pack,139,6.1,57,5.2,5.76,6.69,94,3,Approved
+Dairy,Tetra Pack,195,4.8,44.5,6.8,2.56,4.68,93,4,Approved
+Canned Food,Metal,31,1,62.8,33.6,0.96,5.23,92,3,Approved
+Bakery,Paper,320,2.7,39,21.4,0.58,6.79,92,5,Approved
+Ready-to-Eat,Glass,302,7.8,38.1,15.4,0.95,7.16,84,3,Approved
+Canned Food,Paper,276,4.4,66.6,33.3,0.89,4.85,77,3,Approved
+Ready-to-Eat,Glass,240,8.4,54.9,17.9,3.46,5.9,82,5,Approved
+Canned Food,Metal,358,7.8,69.5,27.2,5.98,6.31,77,4,Approved
+Dairy,Paper,364,5.2,58.9,23,2.3,4.77,95,5,Approved
+Dairy,Plastic,58,1.9,50.2,11.6,0.54,5.93,96,3,Approved
+Snacks,Paper,232,6.3,65.8,21.6,1.33,5.75,100,4,Approved
+Ready-to-Eat,Vacuum Pack,159,0.6,40,17.6,3.52,6.88,89,4,Approved
+Bakery,Metal,135,7.2,44.4,5.4,0.82,4.64,96,5,Approved
+Snacks,Metal,222,5.4,39.9,31.3,0.78,5.36,98,3,Approved
+Canned Food,Vacuum Pack,170,4,54.3,9.7,2.25,5.86,95,5,Approved
+Juice,Paper,217,2.5,42.4,31.7,3.71,5.87,96,3,Approved
+Canned Food,Metal,223,2.9,59.2,24.1,3.77,4.24,84,3,Approved
+Frozen Food,Plastic,128,3.7,38,5.3,2.99,6.17,86,3,Approved
+Juice,Tetra Pack,299,4,55.3,29,3.52,5.6,93,3,Approved
+Canned Food,Paper,53,6.6,49.3,17.7,0.7,4.39,98,4,Approved
+Ready-to-Eat,Tetra Pack,53,8.8,45.2,9.3,5.71,4.46,77,4,Approved
+Ready-to-Eat,Glass,18,7.9,55.6,8.7,0.65,4.92,95,3,Approved
+Frozen Food,Plastic,162,9.3,68,8,1.08,5.67,98,4,Approved
+Canned Food,Paper,125,3.9,46.2,12.7,5.75,4.51,81,5,Approved
+Snacks,Glass,151,3.3,56.1,18.1,1.33,6.95,76,5,Approved
+Juice,Plastic,94,3.9,67.4,11.9,3.44,4.86,79,4,Approved
+Dairy,Glass,268,9.5,60.7,11.4,1.06,6.29,100,4,Approved
+Juice,Tetra Pack,240,5.6,62,23.2,5.69,6.98,93,5,Approved
+Juice,Tetra Pack,102,8.6,49.6,25.8,5.02,5.27,87,4,Approved
+Juice,Tetra Pack,114,5.6,49.8,33.8,3.66,5.69,100,4,Approved
+Dairy,Metal,347,6.2,60.8,28.5,2.61,4.76,90,4,Approved
+Snacks,Glass,261,5.2,67.5,18.8,0.64,6.55,79,5,Approved
+Bakery,Plastic,317,0.3,45.6,11.5,1.64,6.16,77,3,Approved
+Bakery,Metal,285,2.5,48.7,30.3,5.25,6.16,83,5,Approved
+Juice,Vacuum Pack,213,4.4,51.1,33.9,5.09,6.51,75,5,Approved
+Snacks,Paper,320,5.2,56.1,28.8,3.4,5.39,85,5,Approved
+Dairy,Plastic,323,0.3,41.7,16.4,3.05,5.91,96,5,Approved
+Canned Food,Glass,96,9.3,56.9,30.5,1.88,4.84,96,5,Approved
+Ready-to-Eat,Vacuum Pack,298,0.2,41.4,19.7,5.46,4.27,81,3,Approved
+Canned Food,Plastic,246,1.6,64,20.8,2.15,6.26,98,3,Approved
+Bakery,Plastic,304,7.9,36.5,5.2,2.35,4.42,85,3,Approved
+Juice,Plastic,299,9.5,69.8,28.1,1.85,7.16,95,3,Approved
+Ready-to-Eat,Paper,251,6.2,57.2,13.9,1.49,4.89,82,5,Approved
+Dairy,Vacuum Pack,27,6.1,47.3,19.2,3.29,4.48,77,3,Approved
+Snacks,Tetra Pack,319,8.1,54.9,7.9,4.54,5.34,84,3,Approved
+Snacks,Plastic,33,5.1,67.8,5.3,3.01,4.74,92,4,Approved
+Frozen Food,Vacuum Pack,285,9.5,43.1,30.7,1.86,4.29,91,5,Approved
+Juice,Plastic,92,4.7,38,19.7,3.73,4.76,98,5,Approved
+Snacks,Metal,123,9.4,46.3,26.6,5.9,6.68,78,3,Approved
+Canned Food,Paper,226,7.3,45.7,21.3,4.73,5.58,79,3,Approved
+Ready-to-Eat,Glass,294,4.7,46.3,30.1,2.6,4.26,80,3,Approved
+Juice,Vacuum Pack,305,5.9,60.2,33.6,2.43,5.08,83,3,Approved
+Bakery,Vacuum Pack,110,2.7,55.3,26,0.94,6.04,81,3,Approved
+Snacks,Glass,313,9.1,58.2,30.8,2.33,5.33,96,4,Approved
+Bakery,Plastic,279,9.1,39.5,22.5,4.98,7.08,82,5,Approved
+Bakery,Plastic,224,8.3,56,17.2,4.29,5.54,78,4,Approved
+Ready-to-Eat,Glass,288,3.5,49.5,28.6,2.32,5.4,81,3,Approved
+Bakery,Vacuum Pack,247,5.5,42.6,5.2,3.63,4.29,94,3,Approved
+Ready-to-Eat,Metal,336,8.6,59.6,20.7,5.27,5.71,87,3,Approved
+Snacks,Paper,197,3.2,58.4,12.6,3.68,6.96,89,4,Approved
+Canned Food,Paper,104,7,58.6,6.2,4.54,6.14,88,5,Approved
+Snacks,Paper,30,0,49.2,16.2,4.42,4.68,76,4,Approved
+Juice,Glass,7,2.5,47.9,21.2,2.16,7.07,80,5,Approved
+Dairy,Plastic,203,7.9,69.4,32,5.4,4.84,78,3,Approved
+Dairy,Paper,93,6.3,58.6,31.5,1.07,6.72,86,5,Approved
+Juice,Paper,133,0.5,67.3,18,2.02,6.77,98,4,Approved
+Frozen Food,Vacuum Pack,339,7.6,54,30.6,0.86,5.91,97,3,Approved
+Canned Food,Glass,166,6.9,37.3,18.5,1.91,7.04,89,4,Approved
+Snacks,Plastic,161,1,35.1,22.4,4.24,5.89,77,4,Approved
+Canned Food,Paper,105,6.6,60.9,32.6,4.07,6.39,79,5,Approved
+Snacks,Metal,141,8.1,55.5,28.3,1.21,5.95,77,4,Approved
+Snacks,Plastic,11,1.4,45.1,15.9,3.1,4.56,83,4,Approved
+Bakery,Tetra Pack,150,6.9,68.5,33.5,3.25,4.95,98,3,Approved
+Ready-to-Eat,Vacuum Pack,205,2.4,45.8,12.4,3.75,6,82,4,Approved
+Bakery,Plastic,165,7.7,50.2,16.4,4.49,6.4,90,5,Approved
+Ready-to-Eat,Tetra Pack,314,8.5,39.8,8.1,2.87,7.1,77,5,Approved
+Juice,Tetra Pack,324,8.4,50.6,22.7,1.01,4.8,82,3,Approved
+Juice,Plastic,25,6.8,42,26.8,4.48,4.85,94,5,Approved
+Juice,Plastic,101,8,58.3,14.1,4.27,4.28,85,4,Approved
+Juice,Plastic,123,1.8,43.5,5.2,2.62,4.37,94,4,Approved
+Snacks,Glass,29,0.9,65.4,16.6,3.66,5.82,81,3,Approved
+Dairy,Tetra Pack,260,7.6,66.1,29,3.73,4.86,81,5,Approved
+Juice,Plastic,165,3,42.1,8.4,3.78,4.81,82,3,Approved
+Frozen Food,Vacuum Pack,357,7.1,55.7,18.2,3.05,5.84,99,4,Approved
+Frozen Food,Paper,328,5.1,47.4,32.1,2.85,4.4,85,5,Approved
+Bakery,Metal,97,6.1,61.8,9.2,3.93,6.33,96,3,Approved
+Ready-to-Eat,Glass,50,3.5,45.6,33.7,2.53,6.44,89,3,Approved
+Canned Food,Tetra Pack,230,1.1,38.8,31.5,3.16,5.4,94,5,Approved
+Bakery,Paper,291,6.2,54,16.3,0.91,6.29,83,3,Approved
+Bakery,Plastic,130,3.6,37.1,31.6,2.54,4.67,97,4,Approved
+Bakery,Tetra Pack,139,3.7,37.4,24.5,5.32,4.5,98,4,Approved
+Ready-to-Eat,Vacuum Pack,19,1.6,46.6,12.4,3.14,4.7,83,5,Approved
+Juice,Paper,43,6.1,49.6,17,2.43,6.54,85,5,Approved
+Ready-to-Eat,Metal,310,9.6,65.6,34.9,0.97,4.78,99,5,Approved
+Juice,Vacuum Pack,114,4.5,44.6,27.7,1,5.23,93,3,Approved
+Canned Food,Paper,290,2.3,43.1,26.5,1.55,4.77,85,4,Approved
+Snacks,Glass,206,1.8,61.4,19.2,3.22,6.47,93,5,Approved
+Bakery,Glass,24,4.7,65.5,30.4,3.72,5.94,80,3,Approved
+Ready-to-Eat,Paper,69,2.5,53.8,9.8,1.07,5.21,92,5,Approved
+Ready-to-Eat,Glass,93,8.5,54,14.9,3.78,5.17,86,5,Approved
+Frozen Food,Glass,362,2.1,51.1,22.7,4.55,6.85,94,4,Approved
+Dairy,Paper,219,5.9,42.8,16.3,5.02,5.03,87,4,Approved
+Ready-to-Eat,Plastic,354,9.3,64.8,29.2,3.29,4.76,90,5,Approved
+Dairy,Paper,22,2.5,54.2,10,1.8,6.6,91,5,Approved
+Bakery,Paper,318,2.1,42.8,28.8,2.46,6.96,98,4,Approved
+Canned Food,Metal,269,9.4,35.6,8.9,4.01,6.75,94,3,Approved
+Dairy,Vacuum Pack,178,9.2,44.8,26.6,3.49,6.62,79,4,Approved
+Dairy,Plastic,216,6.4,51.4,15.6,4.29,4.26,87,3,Approved
+Frozen Food,Metal,12,9.6,69.9,8.8,0.69,4.27,94,3,Approved
+Bakery,Tetra Pack,358,6,48.6,25.3,4.09,6.04,98,4,Approved
+Frozen Food,Tetra Pack,261,8.4,35.3,14.6,4.17,5.39,86,5,Approved
+Canned Food,Paper,123,6.8,43.2,32.3,1.71,5.98,90,3,Approved
+Juice,Vacuum Pack,353,6.4,53.3,23.2,2.38,5.87,81,4,Approved
+Dairy,Plastic,28,2.7,47.2,10.9,3.74,4.97,90,3,Approved
+Ready-to-Eat,Plastic,170,1.4,64.3,12.8,1.63,4.93,89,4,Approved
+Dairy,Metal,152,7.7,45.6,24.9,1.52,5.55,93,3,Approved
+Juice,Metal,360,1.8,63.6,14.4,5.16,6.01,95,5,Approved
+Ready-to-Eat,Glass,76,8.2,36,23.5,5.17,7.08,76,3,Approved
+Bakery,Plastic,252,3.5,56.1,7.3,5.31,5.55,97,4,Approved
+Canned Food,Plastic,180,7.5,66.3,22.6,3,5.65,92,5,Approved
+Ready-to-Eat,Vacuum Pack,331,1.9,50.6,15.4,1.72,6.15,79,4,Approved
+Ready-to-Eat,Vacuum Pack,162,1.4,40.2,34.5,2.71,4.42,99,5,Approved
+Dairy,Paper,195,1.5,58.4,7.2,4.76,6.17,100,3,Approved
+Juice,Paper,345,1.7,41.1,5.4,5.27,6.86,100,5,Approved
+Frozen Food,Plastic,339,2.3,61,21.9,3.92,5.54,97,5,Approved
+Snacks,Glass,23,1.9,69.4,12.3,5.08,6.45,79,5,Approved
+Canned Food,Metal,153,5.1,48.8,13.2,0.7,5.79,86,3,Approved
+Snacks,Vacuum Pack,21,0,54.6,15.3,4.42,7.05,77,4,Approved
+Bakery,Tetra Pack,261,4.4,39.2,22.1,2.02,5.41,81,5,Approved
+Canned Food,Metal,278,2.1,62.6,12.9,3.09,6.32,75,3,Approved
+Juice,Vacuum Pack,332,7.1,65.9,23.7,3.32,7.1,79,4,Approved
+Snacks,Tetra Pack,90,8.4,46.1,26.3,0.52,6.29,84,3,Approved
+Snacks,Plastic,36,8.9,36.1,8.2,1.39,6.88,94,3,Approved
+Canned Food,Metal,180,2,68.8,5.3,1.85,4.59,75,4,Approved
+Juice,Paper,167,0.1,38.9,31.7,3.22,6.38,94,5,Approved
+Frozen Food,Tetra Pack,354,9.3,39.3,29.4,1.3,6.48,89,4,Approved
+Frozen Food,Paper,287,5.1,57.5,12.6,2.57,5.42,77,3,Approved
+Frozen Food,Plastic,312,7.5,57.4,8.1,1.78,6.66,98,5,Approved
+Ready-to-Eat,Paper,351,8.2,52.7,22.1,1.04,6.1,80,3,Approved
+Ready-to-Eat,Glass,35,10.2,81.9,37.8,1.2,3.33,57,1,Rejected
+Bakery,Glass,58,14.3,71.6,36.2,0.18,3.14,48,1,Rejected
+Dairy,Paper,162,14.9,68.2,58.2,2.6,3.08,65,3,Rejected
+Bakery,Plastic,87,17,78.9,48.8,2.23,3.86,42,3,Rejected
+Ready-to-Eat,Tetra Pack,18,25,81.3,44,2.45,3.47,66,1,Rejected
+Snacks,Vacuum Pack,143,12.1,69.3,46.1,2.55,3.41,68,3,Rejected
+Dairy,Tetra Pack,198,24.9,78.4,63.8,1.49,3.62,64,2,Rejected
+Juice,Plastic,91,20.9,81.2,60.7,0.69,3.49,50,2,Rejected
+Canned Food,Tetra Pack,166,11.6,74.8,53.2,2.21,3.61,50,2,Rejected
+Canned Food,Tetra Pack,32,22.3,74.3,47.6,2.63,3.03,51,1,Rejected
+Ready-to-Eat,Plastic,16,11.9,68.6,61,1.09,3.54,43,1,Rejected
+Snacks,Metal,88,15.1,76.1,64.1,1.76,3.47,67,3,Rejected
+Canned Food,Paper,94,20.4,63.4,38.5,1.15,3.15,67,1,Rejected
+Dairy,Vacuum Pack,106,10.6,86,35,1.77,3.9,54,1,Rejected
+Snacks,Tetra Pack,52,22.5,84.6,36.9,1.53,3.29,62,1,Rejected
+Ready-to-Eat,Glass,146,20.1,66.3,48.7,0.39,3.74,51,3,Rejected
+Juice,Vacuum Pack,155,22.1,86.6,39.5,0.32,3.47,42,2,Rejected
+Dairy,Paper,156,13.2,88.1,32,2.17,3.34,65,2,Rejected
+Dairy,Tetra Pack,30,18.1,63.1,34.8,1.11,3.12,65,1,Rejected
+Canned Food,Glass,11,23.7,89.5,52.3,2.56,3.24,63,1,Rejected
+Bakery,Paper,104,21,84.6,46.5,2.01,3.53,68,1,Rejected
+Snacks,Metal,84,17.3,68.8,63.1,2.07,3.88,56,2,Rejected
+Dairy,Glass,186,12.7,67.6,31.2,1.27,3.54,50,1,Rejected
+Bakery,Metal,146,22.1,92.4,61,2.82,3.83,48,1,Rejected
+Bakery,Metal,178,19.8,62.3,35.2,0.94,3.33,59,2,Rejected
+Frozen Food,Metal,92,23.1,79.5,36.5,2.31,3.02,64,1,Rejected
+Frozen Food,Vacuum Pack,195,15.1,72.4,45.7,0.79,3.37,60,3,Rejected
+Bakery,Vacuum Pack,55,21,92,44.6,0.34,3.8,62,1,Rejected
+Juice,Metal,132,17.9,89.7,33.3,1.48,3.28,65,1,Rejected
+Juice,Tetra Pack,68,16.6,80.5,59.6,0.5,3.08,63,3,Rejected
+Snacks,Metal,200,15,89.8,38.3,0.06,3.79,65,1,Rejected
+Snacks,Glass,169,15.9,68.7,40.1,1.76,3.11,63,3,Rejected
+Dairy,Glass,107,21.8,90.5,30.7,1.27,3.66,61,3,Rejected
+Bakery,Paper,150,11.9,66.2,65,1.37,3.1,51,1,Rejected
+Canned Food,Tetra Pack,175,20,76.5,63.5,1.51,3.16,50,1,Rejected
+Ready-to-Eat,Vacuum Pack,155,24.9,90,47.1,2.38,3.59,64,2,Rejected
+Snacks,Paper,19,24.7,79.1,45.5,1.11,3.99,64,3,Rejected
+Bakery,Vacuum Pack,165,23.1,63.3,57.7,1.9,3.82,43,1,Rejected
+Dairy,Plastic,22,21.8,83.4,42.1,0.86,3.61,62,1,Rejected
+Snacks,Tetra Pack,177,16.7,68.9,34,0.66,3.52,49,1,Rejected
+Bakery,Tetra Pack,78,17.3,67.9,56.4,1.53,3.87,61,3,Rejected
+Snacks,Paper,46,19.8,87.1,39.1,1.26,3.78,63,3,Rejected
+Frozen Food,Paper,60,14.3,63.4,57.2,1.98,3.31,40,2,Rejected
+Canned Food,Plastic,15,13.6,81,47.7,1.99,3.25,47,3,Rejected
+Bakery,Glass,50,18.9,70.6,46,2.81,3.6,57,3,Rejected
+Bakery,Vacuum Pack,5,16.3,90.4,46.1,2.67,3.06,63,1,Rejected
+Frozen Food,Paper,4,11.3,78.8,31.6,1.19,3.21,66,2,Rejected
+Ready-to-Eat,Vacuum Pack,130,12.1,83.1,47.5,0.28,3.72,56,3,Rejected
+Bakery,Paper,106,18.1,85.5,50.8,0.21,3.35,67,2,Rejected
+Canned Food,Paper,52,19,75.6,41.5,2.31,3.2,41,2,Rejected
+Juice,Glass,43,10.3,62,49.4,1.73,3.37,68,3,Rejected
+Frozen Food,Glass,107,13.5,64.9,54.6,0.18,3.09,59,3,Rejected
+Ready-to-Eat,Metal,84,14.8,66.1,32.2,1.2,3.95,46,2,Rejected
+Canned Food,Tetra Pack,63,22.9,66.7,60.5,0.21,3.99,67,1,Rejected
+Ready-to-Eat,Plastic,53,13.1,60.1,56.1,0.46,3.52,42,2,Rejected
+Frozen Food,Glass,117,18.1,73.1,46.5,2.58,3.49,42,3,Rejected
+Dairy,Glass,133,15.9,61.7,62.9,0.9,3.4,60,2,Rejected
+Bakery,Plastic,13,10.3,71.5,59.8,0.53,3.37,47,3,Rejected
+Canned Food,Plastic,131,10.4,74.9,39,0.16,3.87,47,1,Rejected
+Frozen Food,Tetra Pack,137,12.5,78.8,50.4,0.39,3.29,46,3,Rejected
+Juice,Glass,163,14.5,64.8,57.3,0.3,3.6,47,1,Rejected
+Juice,Plastic,183,14.8,91.8,36.8,2.55,3.06,69,3,Rejected
+Ready-to-Eat,Paper,57,20.9,89.8,36.1,2.26,3.72,69,3,Rejected
+Ready-to-Eat,Vacuum Pack,63,22.1,61.9,47.8,2.2,3.35,57,2,Rejected
+Canned Food,Metal,83,19.8,90,61.5,0.06,3.91,66,1,Rejected
+Dairy,Vacuum Pack,99,22,80,55.2,2.7,3.63,61,2,Rejected
+Canned Food,Vacuum Pack,188,10.5,79.7,58.5,0.53,3.11,60,1,Rejected
+Frozen Food,Plastic,42,21.7,87,30.5,0.9,3.68,46,1,Rejected
+Snacks,Plastic,174,23.2,75.3,63.3,2.35,3.14,51,1,Rejected
+Ready-to-Eat,Tetra Pack,6,18,90.1,53.9,2.23,3.62,53,2,Rejected
+Ready-to-Eat,Vacuum Pack,17,16.6,89.2,49.3,2.14,3.58,41,2,Rejected
+Canned Food,Vacuum Pack,49,12.3,63.7,52.8,2.75,3.52,62,1,Rejected
+Ready-to-Eat,Paper,142,13.2,70.7,56.8,2.25,3.9,59,3,Rejected
+Canned Food,Plastic,153,21.6,89.9,51.7,2.47,3.66,45,2,Rejected
+Juice,Paper,176,10.3,80.7,60.8,1.43,3.49,51,3,Rejected
+Ready-to-Eat,Metal,92,24.4,60.3,37.8,1.96,3.89,66,1,Rejected
+Frozen Food,Plastic,101,18.1,92.8,32.8,0.17,3.83,59,3,Rejected
+Bakery,Glass,46,13.5,77.5,37,1.21,3.96,64,1,Rejected
+Canned Food,Tetra Pack,182,16.8,70.9,53.4,1.78,3.13,54,1,Rejected
+Bakery,Glass,149,14.1,63.9,38.4,1.56,3.75,41,1,Rejected
+Bakery,Plastic,147,19.2,83.6,49.6,1.76,3.21,42,3,Rejected
+Ready-to-Eat,Plastic,199,15.5,64.5,35.9,2.02,3.35,47,2,Rejected
+Dairy,Metal,57,20,71.8,55.9,1.15,3.27,67,1,Rejected
+Juice,Vacuum Pack,121,18.8,73.9,61.7,1.12,3.92,43,3,Rejected
+Ready-to-Eat,Vacuum Pack,59,24.3,66.4,59.9,2.12,3.5,44,3,Rejected
+Bakery,Glass,185,11.3,86.7,64.5,0.27,3.59,53,2,Rejected
+Ready-to-Eat,Paper,37,16,82.4,51.1,0.4,3.8,41,2,Rejected
+Bakery,Plastic,91,20.1,66.3,49.2,0.9,3.09,50,2,Rejected
+Ready-to-Eat,Tetra Pack,39,23.1,75.5,55.5,0.29,3.59,59,3,Rejected
+Juice,Paper,128,13,84,35.5,0.64,3.43,47,1,Rejected
+Dairy,Tetra Pack,131,11.6,67.9,56.1,2.52,3.89,59,3,Rejected
+Ready-to-Eat,Tetra Pack,175,13.4,84.3,43.6,1.56,3.32,46,1,Rejected
+Snacks,Vacuum Pack,2,24.6,80.4,32.8,2.39,3.64,49,3,Rejected
+Canned Food,Glass,188,19.3,85.3,37,1.27,3.34,65,3,Rejected
+Frozen Food,Metal,54,21.6,67.5,59.9,2.65,3.83,42,2,Rejected
+Juice,Vacuum Pack,32,13.1,76.3,60.9,2.6,3.7,63,2,Rejected
+Snacks,Glass,24,11.7,78.9,59,1.15,3.6,68,1,Rejected
+Juice,Metal,136,11.4,69.3,56.3,0.23,3.94,57,3,Rejected
+Snacks,Paper,11,17.8,63,32.1,0.81,3.74,52,3,Rejected
+Frozen Food,Glass,42,14.9,86.7,33.9,1.89,3.49,60,2,Rejected
+Bakery,Metal,17,13.6,68.2,57,1.23,3.38,43,1,Rejected
+Bakery,Vacuum Pack,7,14.6,65.4,32.7,0.4,3.85,66,1,Rejected
+Dairy,Glass,116,11.4,79.5,35,0.88,3.53,66,3,Rejected
+Snacks,Plastic,144,24.4,91.5,64.9,2.77,3.86,59,3,Rejected
+Ready-to-Eat,Paper,145,24.9,67.5,35.4,1.65,3.98,59,2,Rejected
+Dairy,Tetra Pack,169,13.8,84,43.1,0.26,3.46,53,2,Rejected
+Frozen Food,Metal,77,18,78.1,50.6,2.49,3.08,59,3,Rejected
+Frozen Food,Tetra Pack,96,20.2,86.5,53.9,1.32,3.56,47,2,Rejected
+Snacks,Tetra Pack,99,19.7,80.3,38,2.28,3.41,68,1,Rejected
+Frozen Food,Tetra Pack,139,21.5,66.7,49.5,1.64,3.87,55,3,Rejected
+Juice,Vacuum Pack,40,16.5,61.7,44.5,1.59,3.65,64,1,Rejected
+Juice,Plastic,23,21.8,80.9,54.5,0.25,3.45,67,3,Rejected
+Ready-to-Eat,Glass,186,24.7,75.6,36.2,1.31,3.43,41,1,Rejected
+Frozen Food,Vacuum Pack,195,14.2,86.4,44.9,1.26,3.89,70,2,Rejected
+Juice,Tetra Pack,76,14.2,68.4,52.8,2.2,3.09,57,1,Rejected
+Snacks,Paper,135,22.3,92.7,51.6,2.28,3.87,55,3,Rejected
+Canned Food,Tetra Pack,62,17,69.4,54,1.69,3.75,68,2,Rejected
+Canned Food,Metal,143,16.8,85.7,57.1,1.28,3.55,51,2,Rejected
+Juice,Plastic,149,19.7,86.1,56,0.06,3.69,53,1,Rejected
+Dairy,Glass,152,15.7,84.5,54.1,1.42,3.3,44,3,Rejected
+Bakery,Tetra Pack,196,14.1,74.4,63.6,1.91,3.44,57,2,Rejected
+Dairy,Vacuum Pack,77,22.1,88.2,57.2,0.04,3.86,63,3,Rejected
+Bakery,Glass,44,18.3,71.6,64,0.98,3.84,59,2,Rejected
+Frozen Food,Tetra Pack,63,17,75.5,61.2,2.72,3.9,55,2,Rejected
+Canned Food,Paper,64,20.3,88.4,51.1,2.09,3.71,56,1,Rejected
+Dairy,Vacuum Pack,139,16.8,82.6,47.3,0.27,3.63,46,1,Rejected
+Dairy,Glass,189,11.7,74.2,61.6,2.05,3.16,53,2,Rejected
+Bakery,Glass,20,24.5,92.6,57.3,2.63,3.74,60,1,Rejected
+Juice,Metal,194,14.1,89.6,59.1,2.44,3.34,63,2,Rejected
+Snacks,Vacuum Pack,156,22.2,70.2,45.5,2.69,3.62,55,3,Rejected
+Canned Food,Vacuum Pack,59,16.3,72.1,47.6,0.91,3.84,59,3,Rejected
+Juice,Metal,54,23.4,90.1,62.3,1.01,3.48,59,2,Rejected
+Bakery,Tetra Pack,5,24,65.4,63.7,2.52,3.4,50,1,Rejected
+Ready-to-Eat,Plastic,32,11.1,90.7,57.8,0.91,3.95,40,3,Rejected
+Ready-to-Eat,Glass,150,25,60.5,43.7,0.45,3.03,54,1,Rejected
+Dairy,Glass,34,23.3,68.9,56.5,2.44,3.87,54,3,Rejected
+Canned Food,Glass,47,24.7,67.7,48.6,0.09,3.23,49,2,Rejected
+Snacks,Vacuum Pack,20,24.3,94.1,35.8,0.38,3.09,59,1,Rejected
+Canned Food,Glass,10,24.2,76.7,38.1,2.89,3.57,53,1,Rejected
+Snacks,Glass,112,14,74.7,58.9,1.58,3.29,48,2,Rejected
+Frozen Food,Tetra Pack,86,17.1,82.8,43.9,2.74,3.8,62,3,Rejected
+Snacks,Vacuum Pack,50,11.8,67.5,37.4,1.21,3.31,53,1,Rejected
+Canned Food,Glass,158,17.8,87.3,62,2.68,3.37,49,1,Rejected
+Bakery,Metal,4,18.5,68.3,41.6,1.9,3.1,58,2,Rejected
+Ready-to-Eat,Glass,137,22.6,69.3,57.3,1.02,3.45,51,2,Rejected
+Canned Food,Vacuum Pack,50,10.4,84.7,38.8,1.53,3.19,44,3,Rejected
+Frozen Food,Vacuum Pack,171,16.7,64.6,33.7,0.24,3.34,56,2,Rejected
+Frozen Food,Tetra Pack,136,11.9,70.6,62.8,0.5,3.88,61,3,Rejected
+Bakery,Tetra Pack,120,24.4,68.4,40.2,0.66,3.36,53,1,Rejected
+Ready-to-Eat,Glass,186,19.6,81.4,55.8,0.36,3.94,49,2,Rejected
+Frozen Food,Plastic,123,15.5,87.5,32,0.52,3.22,50,2,Rejected
+Ready-to-Eat,Paper,158,22.6,72.4,55.4,2.79,3.14,45,1,Rejected
+Frozen Food,Glass,43,24.6,75.1,46.2,1.16,3.83,40,3,Rejected
+Bakery,Glass,70,13.4,79.6,58.1,0.18,3.79,41,2,Rejected
+Bakery,Plastic,136,16.7,76.3,37.5,1.02,3.08,59,1,Rejected
+Ready-to-Eat,Glass,161,18.5,81,45.8,2.48,3.8,51,2,Rejected
+Frozen Food,Metal,65,19.6,78.1,50,0.07,3.65,58,1,Rejected
+Dairy,Vacuum Pack,178,23.4,63.5,34,0.18,3.8,40,3,Rejected
+Juice,Vacuum Pack,18,19.2,88,53.2,0.3,3.46,62,1,Rejected
+Ready-to-Eat,Paper,64,22.8,74.6,38.3,1.37,3.2,53,3,Rejected
+Snacks,Paper,114,15.3,72.7,47.1,0.97,3.65,48,3,Rejected
+Bakery,Tetra Pack,128,14.9,92.4,33.3,2.45,3.62,56,3,Rejected
+Bakery,Plastic,6,21.9,79.7,63.3,1.29,3,60,2,Rejected
+Ready-to-Eat,Tetra Pack,91,12.1,62.2,56.3,1.36,3.15,62,1,Rejected
+Bakery,Glass,30,10.6,74.2,43,2.33,3.79,56,1,Rejected
+Frozen Food,Tetra Pack,47,11.1,91.8,37.8,1.92,3.5,68,1,Rejected
+Juice,Plastic,140,21.7,68.6,62,0.9,3.18,66,3,Rejected
+Frozen Food,Paper,120,15.6,61.9,33.2,0.1,3.73,43,1,Rejected
+Snacks,Tetra Pack,24,14,84,32.5,1.52,3.1,46,2,Rejected
+Juice,Paper,198,24.3,70.4,37.9,0.76,3.96,68,3,Rejected
+Canned Food,Metal,107,17,61.1,33.7,2.46,3,67,2,Rejected
+Bakery,Metal,181,15,72.3,39.9,2.28,3.22,62,2,Rejected
+Frozen Food,Tetra Pack,164,11.5,69.2,43,1.25,3.53,48,2,Rejected
+Ready-to-Eat,Paper,135,13.4,61.1,40.8,2.68,3.88,42,2,Rejected
+Frozen Food,Vacuum Pack,65,16,90.8,44.4,0.31,3.32,63,1,Rejected
+Juice,Paper,102,17.3,84.2,60.9,1.66,3.51,55,2,Rejected
+Juice,Plastic,157,19.6,76.5,55.4,1.82,3.41,42,2,Rejected
+Juice,Plastic,164,17.3,70.6,59.8,2.47,3.92,58,1,Rejected
+Bakery,Vacuum Pack,97,11.3,91.2,55.3,1.36,3.76,59,2,Rejected
+Ready-to-Eat,Metal,32,15.1,75,60.5,1.63,3.38,56,2,Rejected
+Bakery,Glass,88,11.1,67.8,54.2,1.6,3.58,60,2,Rejected
+Frozen Food,Vacuum Pack,17,10.8,87.9,63.9,2.49,3.79,54,1,Rejected
+Frozen Food,Paper,89,21.9,81.5,32.5,1.24,3.44,48,2,Rejected
+Bakery,Vacuum Pack,180,24.7,63.8,45.7,2.75,3.35,44,2,Rejected
+Snacks,Tetra Pack,60,17.6,60.8,45.1,0.35,3.24,41,3,Rejected
+Snacks,Vacuum Pack,187,13.2,66.4,54.6,2.08,3.09,61,2,Rejected
+Bakery,Tetra Pack,163,16.1,68.4,61.7,1.94,3.94,53,3,Rejected
+Frozen Food,Vacuum Pack,38,24.7,68,52.4,1.04,3.82,46,1,Rejected
+Juice,Metal,168,22.9,64.2,42.8,0.83,3.01,64,2,Rejected
+Ready-to-Eat,Paper,34,11.1,65.3,32.5,2.96,3.26,47,1,Rejected
+Snacks,Tetra Pack,53,23,90.7,30.6,2.09,3.73,67,1,Rejected
+Dairy,Vacuum Pack,30,21.6,91.5,34,2.56,3.13,66,1,Rejected
+Dairy,Plastic,120,21.6,76.8,60,1.25,3.38,59,1,Rejected
+Snacks,Metal,72,14.3,79,35,2.3,3.36,59,3,Rejected
+Dairy,Paper,173,15,63.9,57.9,1.43,3.08,52,3,Rejected
+Juice,Glass,16,24.2,76.4,59,2.41,3.93,64,3,Rejected
+Juice,Vacuum Pack,29,16.4,69.1,47.6,2.65,3.47,64,2,Rejected
+Canned Food,Glass,134,18.9,89.5,55.5,2.09,3.9,44,3,Rejected
+Frozen Food,Plastic,62,11.2,69.2,52.8,1.46,3.9,60,3,Rejected
+Snacks,Metal,106,11.3,76.4,51.6,2.35,3.49,63,3,Rejected
+Frozen Food,Paper,171,24.8,63.3,45.2,1.76,3.08,60,2,Rejected
+Ready-to-Eat,Paper,102,19.1,64.6,46.7,2.38,3.24,62,1,Rejected
+Ready-to-Eat,Tetra Pack,164,10.7,88.7,52,2.52,3.41,54,2,Rejected
+Frozen Food,Glass,194,24.6,65.3,53.1,1.14,3.27,46,3,Rejected
+Juice,Plastic,120,23.3,78.9,57.4,1.17,3.49,46,2,Rejected
+Canned Food,Vacuum Pack,162,18.6,71.4,36.6,2.9,3.71,52,3,Rejected
+Juice,Paper,157,21.6,81.3,56.2,2.57,3.91,65,2,Rejected
+Dairy,Metal,55,18.9,88.7,55.1,0.54,3.79,50,2,Rejected
+Snacks,Paper,176,21.6,62.2,60.3,0.87,3.78,53,3,Rejected
+Canned Food,Plastic,150,21.6,83.5,55,0.91,3.6,68,3,Rejected
+Frozen Food,Plastic,42,14.9,65.3,58.5,0.96,3.23,42,1,Rejected
+Snacks,Glass,117,22.6,90.6,58.9,2.21,3.98,55,1,Rejected
+Canned Food,Glass,104,14.6,88.3,31.4,2.77,3.66,44,2,Rejected
+Bakery,Tetra Pack,53,13.3,68.2,51.1,2.31,3.47,57,3,Rejected
+Frozen Food,Vacuum Pack,175,23.4,85.5,46.4,0.41,3.58,47,2,Rejected
+Snacks,Plastic,140,22.8,72.1,31.9,2.95,3.5,49,3,Rejected
+Frozen Food,Plastic,166,18.1,78.1,31.7,2.54,3.68,70,1,Rejected
+Dairy,Tetra Pack,4,22,71.7,53.5,2.54,3.2,61,2,Rejected
+Ready-to-Eat,Tetra Pack,59,12.3,60.8,38.7,0.48,3.41,54,3,Rejected
+Dairy,Glass,125,14.8,64.3,30.6,2.85,3.63,57,3,Rejected
+Canned Food,Plastic,50,16.4,93.8,39.3,1.25,3.34,45,3,Rejected
+Bakery,Tetra Pack,147,13.3,89.1,35,2.65,3.29,45,3,Rejected
+Dairy,Vacuum Pack,114,15.3,92.7,64.1,2.59,3.2,70,3,Rejected
+Canned Food,Metal,88,16.1,66.7,38.3,0.93,3.28,40,1,Rejected
+Frozen Food,Vacuum Pack,76,24,94.4,35.8,1.99,3.87,64,3,Rejected
+Snacks,Paper,179,23.3,86.9,31,1.42,3.39,59,1,Rejected
+Bakery,Metal,182,17.6,72.9,41.7,2,3.96,60,1,Rejected
+Canned Food,Metal,55,12.2,68.1,44.4,0.17,3.9,51,3,Rejected
+Snacks,Plastic,81,19.9,65.1,54.8,1.97,3.93,54,1,Rejected
+Snacks,Plastic,90,11.9,74,57.9,2.84,3.14,46,1,Rejected
+Snacks,Plastic,183,12.8,91.1,31,2.74,3.03,56,1,Rejected
+Snacks,Paper,38,12.2,69.8,39.8,1.72,3.74,69,2,Rejected
+Bakery,Paper,51,25,86.3,44,2.55,3.93,66,3,Rejected
+Bakery,Glass,65,10.4,64.5,60.5,1.51,3.56,50,2,Rejected
+Canned Food,Paper,123,17.4,71.3,37.3,1.5,3.88,69,2,Rejected
+Snacks,Glass,19,16.8,63.8,45.3,2.4,3.73,46,3,Rejected
+Canned Food,Vacuum Pack,150,24,65.6,35.4,2.62,3.36,70,3,Rejected
+Dairy,Tetra Pack,58,19.6,92.6,62.9,2.71,3.59,45,1,Rejected
+Dairy,Glass,164,10.5,93,62.7,2.35,3.31,53,2,Rejected
+Snacks,Tetra Pack,190,16.8,87.6,43.3,1.33,3.54,56,1,Rejected
+Frozen Food,Tetra Pack,177,20.6,74.8,47.4,1.63,4,66,1,Rejected
+Dairy,Vacuum Pack,14,19.7,89.2,62.1,2.2,3.99,59,1,Rejected
+Frozen Food,Glass,90,12.1,90.2,41.8,2.5,3.31,46,3,Rejected
+Dairy,Tetra Pack,31,23.2,94.1,61,0.52,3.07,46,2,Rejected
+Frozen Food,Plastic,22,11.7,75.9,62.9,2.36,3.72,68,1,Rejected
+Bakery,Glass,67,15.6,92.4,35.8,2.01,3.51,48,1,Rejected
+Ready-to-Eat,Paper,117,24.3,89.8,64.9,1.97,3.36,42,2,Rejected
+Juice,Plastic,100,11.3,87.1,45.7,2.68,3.69,42,1,Rejected
+Ready-to-Eat,Vacuum Pack,23,14.7,89.5,48.1,0.15,3.12,41,3,Rejected
+Snacks,Vacuum Pack,12,16,60.7,31.4,2.73,3.02,47,2,Rejected
